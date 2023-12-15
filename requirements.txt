@@ -8,3 +8,8 @@ evidently
 dill
 matplotlib
 -e .
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+
